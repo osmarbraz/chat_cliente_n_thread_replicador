@@ -6,7 +6,7 @@
 - Permite conectar a um servidor.
 - Recebe mensagens do servidor em outra thread.
 - Replica as mensagens do servidor.
-- Use o repositório "socket_servidor_chat_n_thread_replicador" como o programa servidor.
+- Use o repositório "socket_chat_n_thread_replicador_servidor" como o programa servidor.
 
 ## Arquivos
 
